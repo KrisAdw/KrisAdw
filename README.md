@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Kris Adiwinata</h1>
 <h3 align="center">A passionate Smart Contract Developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
-
 <h1 align="left">About Me</h1>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisadw&label=Profile%20views&color=0e75b6&style=flat" alt="krisadw" /> </p>
 
 - 🌱 I’m currently learning **Smart Contract and Web 3**
