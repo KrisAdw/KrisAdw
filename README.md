@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kris adiwinata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kris adiwinata" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kris-adiwinata-726379214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kris adiwinata" height="30" width="40" /></a>
+<a href="https://instagram.com/kris.adw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krisadw" height="30" width="40" /></a>
 <a href="https://dribbble.com/kris_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kris_12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krisadw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krisadw" height="30" width="40" /></a>
 </p>
